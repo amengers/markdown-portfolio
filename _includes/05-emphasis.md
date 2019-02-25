@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Bio
+
+I am rather *good* at typing :sparkles: in *_forms_* and __brag__! :tada: Simply the best :smile:
